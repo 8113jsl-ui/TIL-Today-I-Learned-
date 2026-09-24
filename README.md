@@ -31,3 +31,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-27 | 개발 환경 | [프로젝트 구조와 .gitignore, 환경변수 관리](Git-GitHub/2026-08-27-project-structure-and-gitignore.md) |
 | 2026-08-27 | 웹 백엔드 | [CRUD와 HTTP 메서드 정리](Web/2026-08-27-crud-and-http-methods.md) |
 | 2026-08-26 | AI 서비스 | [STT와 TTS로 이해하는 음성 서비스](AI/2026-08-26-stt-tts-voice-service.md) |
+| 2026-08-27 | AI 기초 | [규칙 기반 추천과 협업 필터링](AI/2026-08-27-recommendation-and-collaborative-filtering.md) |
