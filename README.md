@@ -20,3 +20,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 학습일 | 분류 | 글 |
 | --- | --- | --- |
 | 2026-09-22 | Git/GitHub | [GitHub Flow와 Git Flow, PR의 역할 정리](Git-GitHub/2026-09-22-github-flow-git-flow-pull-request.md) |
+| 2026-08-25 | AI 기초 | [AI·ML·생성형 AI와 도메인 이해](AI/2026-08-25-ai-ml-service-domain.md) |
