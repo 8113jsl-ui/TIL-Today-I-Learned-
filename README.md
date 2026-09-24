@@ -33,3 +33,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-26 | AI 서비스 | [STT와 TTS로 이해하는 음성 서비스](AI/2026-08-26-stt-tts-voice-service.md) |
 | 2026-08-27 | AI 기초 | [규칙 기반 추천과 협업 필터링](AI/2026-08-27-recommendation-and-collaborative-filtering.md) |
 | 2026-08-27 | 웹 기초 | [할 일 앱으로 구분하는 프론트엔드와 백엔드](Web/2026-08-27-frontend-backend-responsibilities.md) |
+| 2026-08-27 | 데이터베이스 | [SQLite의 역할과 데이터베이스 선택 기준](SQL/2026-08-27-sqlite-and-database-choice.md) |
