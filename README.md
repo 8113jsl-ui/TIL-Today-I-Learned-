@@ -24,3 +24,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-25 | 개발 환경 | [에디터·터미널·Python 실행 환경 구분](Development/2026-08-25-editor-terminal-runtime.md) |
 | 2026-08-25 | 웹 기초 | [브라우저·서버와 HTTP 요청·응답](Web/2026-08-25-http-request-response-api.md) |
 | 2026-08-26 | Python 환경 | [venv와 requirements.txt로 실행 환경 구분하기](Python/2026-08-26-venv-and-dependencies.md) |
+| 2026-08-26 | Python 기초 | [주석과 문자열, docstring의 차이](Python/2026-08-26-comments-and-docstrings.md) |
