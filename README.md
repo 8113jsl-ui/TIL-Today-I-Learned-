@@ -12,3 +12,11 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | SQLD | [[SQLD] COUNT(*)와 COUNT(컬럼), NULL이 있으면 왜 다를까?](SQLD/sqld-count-null-basics.md) |
 | 코딩테스트 · 입출력 | [[Python 코딩테스트 기초 01] 입력받은 시간으로 남은 공부 시간 계산하기](Coding-Test/Python/python-stdin-remaining-time.md) |
 | 코딩테스트 · 함수와 반복문 | [[Python 코딩테스트 기초 02] 목표 시간을 채운 날 세기 — 반복문과 return](Coding-Test/Python/python-function-count-study-days.md) |
+
+## 수업 필기 기반 TIL
+
+필기에 남긴 주제를 복습하고 참고 문서와 예제로 보완한 기록입니다.
+
+| 학습일 | 분류 | 글 |
+| --- | --- | --- |
+| 2026-09-22 | Git/GitHub | [GitHub Flow와 Git Flow, PR의 역할 정리](Git-GitHub/2026-09-22-github-flow-git-flow-pull-request.md) |
