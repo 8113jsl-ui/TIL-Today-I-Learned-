@@ -29,3 +29,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-26 | AI 서비스 | [AI 에이전트·도구 호출·MCP의 역할](AI/2026-08-26-agent-tools-and-mcp.md) |
 | 2026-08-27 | 웹 백엔드 | [Flask 라우팅과 경로 매개변수](Web/2026-08-27-flask-routing-and-endpoints.md) |
 | 2026-08-27 | 개발 환경 | [프로젝트 구조와 .gitignore, 환경변수 관리](Git-GitHub/2026-08-27-project-structure-and-gitignore.md) |
+| 2026-08-27 | 웹 백엔드 | [CRUD와 HTTP 메서드 정리](Web/2026-08-27-crud-and-http-methods.md) |
