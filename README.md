@@ -27,3 +27,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-26 | Python 기초 | [주석과 문자열, docstring의 차이](Python/2026-08-26-comments-and-docstrings.md) |
 | 2026-08-26 | AI 기초 | [임베딩과 유사도 검색의 기본 흐름](AI/2026-08-26-embeddings-and-similarity.md) |
 | 2026-08-26 | AI 서비스 | [AI 에이전트·도구 호출·MCP의 역할](AI/2026-08-26-agent-tools-and-mcp.md) |
+| 2026-08-27 | 웹 백엔드 | [Flask 라우팅과 경로 매개변수](Web/2026-08-27-flask-routing-and-endpoints.md) |
