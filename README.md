@@ -42,3 +42,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-28 | 서버 기초 | [Linux와 셸, 경로의 기본 개념](Development/2026-08-28-linux-shell-and-paths.md) |
 | 2026-08-28 | 배포 기초 | [Docker 컨테이너와 실행 환경](Development/2026-08-28-docker-container-basics.md) |
 | 2026-08-28 | 클라우드 | [클라우드에서도 서버와 운영은 남는다](Development/2026-08-28-cloud-resource-basics.md) |
+| 2026-08-28 | 웹 기초 | [HTTPS가 보호하는 범위](Web/2026-08-28-https-and-tls.md) |
