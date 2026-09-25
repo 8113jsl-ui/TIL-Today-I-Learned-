@@ -40,3 +40,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-27 | AI 서비스 | [AI 답변을 다른 모델로 확인할 때의 한계](AI/2026-08-27-llm-output-verification.md) |
 | 2026-08-27 | 웹 백엔드 | [localhost와 0.0.0.0의 차이](Web/2026-08-27-localhost-and-bind-address.md) |
 | 2026-08-28 | 서버 기초 | [Linux와 셸, 경로의 기본 개념](Development/2026-08-28-linux-shell-and-paths.md) |
+| 2026-08-28 | 배포 기초 | [Docker 컨테이너와 실행 환경](Development/2026-08-28-docker-container-basics.md) |
