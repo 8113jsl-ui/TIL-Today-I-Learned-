@@ -35,3 +35,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-27 | 웹 기초 | [할 일 앱으로 구분하는 프론트엔드와 백엔드](Web/2026-08-27-frontend-backend-responsibilities.md) |
 | 2026-08-27 | 데이터베이스 | [SQLite의 역할과 데이터베이스 선택 기준](SQL/2026-08-27-sqlite-and-database-choice.md) |
 | 2026-08-27 | 웹 기초 | [비동기 요청과 화면의 대기 상태](Web/2026-08-27-asynchronous-request-and-ui.md) |
+| 2026-08-27 | 개발 과정 | [요구사항과 완료 기준을 먼저 정리하기](Development/2026-08-27-requirements-and-acceptance.md) |
