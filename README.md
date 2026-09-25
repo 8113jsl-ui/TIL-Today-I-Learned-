@@ -37,3 +37,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-27 | 웹 기초 | [비동기 요청과 화면의 대기 상태](Web/2026-08-27-asynchronous-request-and-ui.md) |
 | 2026-08-27 | 개발 과정 | [요구사항과 완료 기준을 먼저 정리하기](Development/2026-08-27-requirements-and-acceptance.md) |
 | 2026-08-27 | 개발 과정 | [목업과 실제 동작을 구분하기](Development/2026-08-27-mockup-and-real-data.md) |
+| 2026-08-27 | AI 서비스 | [AI 답변을 다른 모델로 확인할 때의 한계](AI/2026-08-27-llm-output-verification.md) |
