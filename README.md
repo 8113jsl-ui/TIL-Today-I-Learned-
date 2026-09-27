@@ -54,3 +54,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-08 | Web | [URL의 경로·쿼리·프래그먼트](Web/2026-09-08-url-components.md) |
 | 2026-09-08 | Web | [HTTP 상태 코드와 통신 실패 구분](Web/2026-09-08-http-status-codes.md) |
 | 2026-09-08 | Python | [튜플의 불변성과 내부 객체](Python/2026-09-08-tuple-immutability.md) |
+| 2026-09-08 | Python | [lambda와 정렬 기준 함수](Python/2026-09-08-lambda-and-sort-key.md) |
