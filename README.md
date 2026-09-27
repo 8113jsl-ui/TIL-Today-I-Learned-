@@ -49,3 +49,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-30 | Development | [CPU·RAM·저장장치의 역할 구분](Development/2026-08-30-cpu-memory-storage.md) |
 | 2026-08-30 | Coding-Test | [알고리즘 문제는 입력 조건부터 읽기](Coding-Test/Python/2026-08-30-algorithm-input-and-boundaries.md) |
 | 2026-09-08 | Python | [import와 as, 별칭의 의미](Python/2026-09-08-import-and-alias.md) |
+| 2026-09-08 | Development | [디렉터리 트리의 노드와 연결](Development/2026-09-08-directory-tree.md) |
