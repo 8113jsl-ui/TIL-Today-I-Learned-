@@ -47,3 +47,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-08-28 | 개발 과정 | [CI/CD와 자동화된 검증 흐름](Git-GitHub/2026-08-28-ci-cd-workflow.md) |
 | 2026-08-30 | Python | [동적 타이핑과 캡슐화는 다르다](Python/2026-08-30-dynamic-typing.md) |
 | 2026-08-30 | Development | [CPU·RAM·저장장치의 역할 구분](Development/2026-08-30-cpu-memory-storage.md) |
+| 2026-08-30 | Coding-Test | [알고리즘 문제는 입력 조건부터 읽기](Coding-Test/Python/2026-08-30-algorithm-input-and-boundaries.md) |
