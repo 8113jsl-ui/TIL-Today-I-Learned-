@@ -52,3 +52,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-08 | Development | [디렉터리 트리의 노드와 연결](Development/2026-09-08-directory-tree.md) |
 | 2026-09-08 | Web | [인증과 인가를 구분하기](Web/2026-09-08-authentication-authorization.md) |
 | 2026-09-08 | Web | [URL의 경로·쿼리·프래그먼트](Web/2026-09-08-url-components.md) |
+| 2026-09-08 | Web | [HTTP 상태 코드와 통신 실패 구분](Web/2026-09-08-http-status-codes.md) |
