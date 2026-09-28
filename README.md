@@ -61,3 +61,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-04 | Python | [and와 or가 돌려주는 값 살펴보기](Python/2026-09-04-boolean-short-circuit.md) |
 | 2026-09-04 | Python | [for는 횟수보다 꺼낼 대상을 먼저 봐요](Python/2026-09-04-for-iteration-and-range.md) |
 | 2026-09-04 | Python | [while에서 종료와 건너뛰기 구분하기](Python/2026-09-04-while-break-and-continue.md) |
+| 2026-09-04 | Python | [set과 딕셔너리 키의 중복 처리](Python/2026-09-04-sets-and-dictionary-keys.md) |
