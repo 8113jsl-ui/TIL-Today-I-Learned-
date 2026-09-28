@@ -56,3 +56,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-08 | Python | [튜플의 불변성과 내부 객체](Python/2026-09-08-tuple-immutability.md) |
 | 2026-09-08 | Python | [lambda와 정렬 기준 함수](Python/2026-09-08-lambda-and-sort-key.md) |
 | 2026-09-04 | Python | [변수 대입과 리스트 복사 구분하기](Python/2026-09-04-assignment-and-shared-lists.md) |
+| 2026-09-04 | Python | [/와 //, 음수의 몫과 나머지](Python/2026-09-04-division-floor-and-remainder.md) |
