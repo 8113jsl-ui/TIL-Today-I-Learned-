@@ -62,3 +62,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-04 | Python | [for는 횟수보다 꺼낼 대상을 먼저 봐요](Python/2026-09-04-for-iteration-and-range.md) |
 | 2026-09-04 | Python | [while에서 종료와 건너뛰기 구분하기](Python/2026-09-04-while-break-and-continue.md) |
 | 2026-09-04 | Python | [set과 딕셔너리 키의 중복 처리](Python/2026-09-04-sets-and-dictionary-keys.md) |
+| 2026-09-04 | Python | [리스트 컴프리헨션을 풀어서 읽기](Python/2026-09-04-list-comprehension-readability.md) |
