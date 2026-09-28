@@ -58,3 +58,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-04 | Python | [변수 대입과 리스트 복사 구분하기](Python/2026-09-04-assignment-and-shared-lists.md) |
 | 2026-09-04 | Python | [/와 //, 음수의 몫과 나머지](Python/2026-09-04-division-floor-and-remainder.md) |
 | 2026-09-04 | Python | [문자열과 숫자를 함께 다룰 때](Python/2026-09-04-strings-and-explicit-conversion.md) |
+| 2026-09-04 | Python | [and와 or가 돌려주는 값 살펴보기](Python/2026-09-04-boolean-short-circuit.md) |
