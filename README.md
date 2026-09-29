@@ -66,3 +66,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-04 | Python | [함수에 넘긴 리스트가 바뀌는 이유](Python/2026-09-04-function-arguments-and-mutation.md) |
 | 2026-09-04 | Python | [기본 매개변수와 가변 인자 구분하기](Python/2026-09-04-default-and-variable-arguments.md) |
 | 2026-09-08 | Development | [운영체제와 펌웨어, 부팅의 차이](Development/2026-09-08-firmware-and-boot.md) |
+| 2026-09-08 | Python | [urllib에서 요청과 응답 본문 구분하기](Python/2026-09-08-urllib-request-and-response.md) |
