@@ -71,3 +71,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-10 | AI | [실제 데이터와 예시 데이터를 구분하기](AI/2026-09-10-source-data-and-synthetic-examples.md) |
 | 2026-09-10 | AI | [목차·본문·검토로 나누어 요청하기](AI/2026-09-10-staged-prompt-workflow.md) |
 | 2026-09-11 | AI | [자연어와 NLP·NLU·NLG 구분하기](AI/2026-09-11-nlp-nlu-nlg.md) |
+| 2026-09-11 | AI | [컨텍스트와 학습, 장기 기억의 차이](AI/2026-09-11-context-and-learning.md) |
