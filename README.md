@@ -74,3 +74,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-11 | AI | [컨텍스트와 학습, 장기 기억의 차이](AI/2026-09-11-context-and-learning.md) |
 | 2026-09-11 | AI | [작은 언어 모델과 로컬 실행은 같은 말일까](AI/2026-09-11-small-model-and-local-execution.md) |
 | 2026-09-11 | Python | [예외처리는 오류를 숨기는 일이 아니다](Python/2026-09-11-exception-handling.md) |
+| 2026-09-11 | AI | [Transformer와 어텐션의 기본 아이디어](AI/2026-09-11-transformer-and-attention.md) |
