@@ -68,3 +68,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-09-08 | Development | [운영체제와 펌웨어, 부팅의 차이](Development/2026-09-08-firmware-and-boot.md) |
 | 2026-09-08 | Python | [urllib에서 요청과 응답 본문 구분하기](Python/2026-09-08-urllib-request-and-response.md) |
 | 2026-09-10 | AI | [프롬프트에 독자와 목적을 적는 이유](AI/2026-09-10-prompt-audience-and-purpose.md) |
+| 2026-09-10 | AI | [실제 데이터와 예시 데이터를 구분하기](AI/2026-09-10-source-data-and-synthetic-examples.md) |
