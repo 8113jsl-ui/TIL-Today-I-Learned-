@@ -88,3 +88,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-02 | [같은 테이블을 두 역할로 읽는 셀프 조인](SQL/2026-10-02-self-join-manager.md) |
 | 2026-10-02 | [CROSS JOIN의 행 수를 먼저 계산하기](SQL/2026-10-02-cross-join-combinations.md) |
 | 2026-10-02 | [인원이 없는 팀까지 세기](SQL/2026-10-02-join-count-zero-members.md) |
+| 2026-10-02 | [EXISTS로 소속 인원이 있는 팀 찾기](SQL/2026-10-02-exists-related-rows.md) |
