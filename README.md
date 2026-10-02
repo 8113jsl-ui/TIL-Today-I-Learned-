@@ -86,3 +86,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-02 | [LEFT JOIN으로 미배정 인원도 남기기](SQL/2026-10-02-left-join-unmatched.md) |
 | 2026-10-02 | [LEFT JOIN의 조건을 ON과 WHERE에 둘 때](SQL/2026-10-02-left-join-on-versus-where.md) |
 | 2026-10-02 | [같은 테이블을 두 역할로 읽는 셀프 조인](SQL/2026-10-02-self-join-manager.md) |
+| 2026-10-02 | [CROSS JOIN의 행 수를 먼저 계산하기](SQL/2026-10-02-cross-join-combinations.md) |
