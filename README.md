@@ -90,3 +90,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-02 | [인원이 없는 팀까지 세기](SQL/2026-10-02-join-count-zero-members.md) |
 | 2026-10-02 | [EXISTS로 소속 인원이 있는 팀 찾기](SQL/2026-10-02-exists-related-rows.md) |
 | 2026-10-02 | [NOT IN에 NULL이 섞이면 생기는 일](SQL/2026-10-02-not-in-null-trap.md) |
+| 2026-10-02 | [ORDER BY 없이 기본 키 순서를 기대하지 않기](SQL/2026-10-02-order-by-tie-breaker.md) |
