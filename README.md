@@ -84,3 +84,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | --- | --- |
 | 2026-10-02 | [INNER JOIN으로 소속 팀 연결하기](SQL/2026-10-02-inner-join-matching.md) |
 | 2026-10-02 | [LEFT JOIN으로 미배정 인원도 남기기](SQL/2026-10-02-left-join-unmatched.md) |
+| 2026-10-02 | [LEFT JOIN의 조건을 ON과 WHERE에 둘 때](SQL/2026-10-02-left-join-on-versus-where.md) |
