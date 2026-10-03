@@ -97,3 +97,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-03 | [집계 대상이 없을 때 SUM과 COUNT](SQL/2026-10-03-empty-aggregate-result.md) |
 | 2026-10-03 | [CASE로 조건에 맞는 행만 합산하기](SQL/2026-10-03-conditional-aggregation.md) |
 | 2026-10-03 | [CASE 분류에서 미입력 값을 따로 남기기](SQL/2026-10-03-case-group-buckets.md) |
+| 2026-10-03 | [두 컬럼으로 그룹의 단위를 정하기](SQL/2026-10-03-multiple-group-keys.md) |
