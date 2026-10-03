@@ -94,3 +94,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-02 | [외래 키를 추가하기 전에 기존 데이터 확인하기](SQL/2026-10-02-foreign-key-missing-parent.md) |
 | 2026-10-03 | [COUNT(DISTINCT)로 서로 다른 값 세기](SQL/2026-10-03-count-distinct-values.md) |
 | 2026-10-03 | [AVG에서 NULL을 0으로 바꿀 때](SQL/2026-10-03-avg-null-denominator.md) |
+| 2026-10-03 | [집계 대상이 없을 때 SUM과 COUNT](SQL/2026-10-03-empty-aggregate-result.md) |
