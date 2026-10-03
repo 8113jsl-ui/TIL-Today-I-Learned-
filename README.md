@@ -100,3 +100,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-03 | [두 컬럼으로 그룹의 단위를 정하기](SQL/2026-10-03-multiple-group-keys.md) |
 | 2026-10-03 | [NULL 그룹에 이름을 붙이는 위치](SQL/2026-10-03-null-group-label.md) |
 | 2026-10-03 | [그룹 평균을 다시 평균내면 달라지는 이유](SQL/2026-10-03-weighted-overall-average.md) |
+| 2026-10-03 | [MAX 값과 그 값을 가진 행 찾기](SQL/2026-10-03-max-value-and-row.md) |
