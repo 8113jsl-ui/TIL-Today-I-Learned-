@@ -111,3 +111,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-05 | [월을 분기로 바꾸는 경계 확인](SQL/2026-10-05-publication-quarter.md) |
 | 2026-10-05 | [경과일 계산은 기준일을 고정해서 검증하기](SQL/2026-10-05-elapsed-date-fixed-base.md) |
 | 2026-10-05 | [기념일의 더하는 날짜 수 정하기](SQL/2026-10-05-anniversary-date-offset.md) |
+| 2026-10-05 | [미발송을 정상 배송으로 분류하지 않기](SQL/2026-10-05-shipping-null-state.md) |
