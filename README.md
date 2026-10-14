@@ -130,3 +130,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-14 | [행 순서와 범위를 지정해 누적합 구하기](SQL/2026-10-14-running-total-explicit-rows.md) |
 | 2026-10-14 | [LAG로 직전 기록과 점수 차이 계산하기](SQL/2026-10-14-lag-previous-record.md) |
 | 2026-10-15 | [LEAD로 다음 기록과 현재 기록 비교하기](SQL/2026-10-15-lead-next-record.md) |
+| 2026-10-15 | [FIRST_VALUE로 시작점 대비 변화 보기](SQL/2026-10-15-first-value-baseline.md) |
