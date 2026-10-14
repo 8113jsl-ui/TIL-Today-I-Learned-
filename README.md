@@ -124,3 +124,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-14 | [집계한 결과를 FROM에서 다시 조회하기](SQL/2026-10-14-derived-table-aggregate-filter.md) |
 | 2026-10-14 | [UNION이 제거하는 중복의 기준](SQL/2026-10-14-union-distinct-rows.md) |
 | 2026-10-14 | [UNION ALL로 중복 발생 횟수 보존하기](SQL/2026-10-14-union-all-preserve-events.md) |
+| 2026-10-14 | [ROW_NUMBER로 팀마다 순번 붙이기](SQL/2026-10-14-row-number-per-team.md) |
