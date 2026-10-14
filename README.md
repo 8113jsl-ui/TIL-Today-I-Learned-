@@ -135,3 +135,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-15 | [최근 세 행의 이동평균과 관측 수](SQL/2026-10-15-moving-average-three-rows.md) |
 | 2026-10-15 | [상세 행을 유지하면서 팀 합계 붙이기](SQL/2026-10-15-partition-total-detail.md) |
 | 2026-10-15 | [전체 대비 비중에서 0인 분모 처리하기](SQL/2026-10-15-share-zero-denominator.md) |
+| 2026-10-15 | [NTILE은 같은 값도 다른 구간에 나눌 수 있다](SQL/2026-10-15-ntile-row-buckets.md) |
