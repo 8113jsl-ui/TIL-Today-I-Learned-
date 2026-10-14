@@ -133,3 +133,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-15 | [FIRST_VALUE로 시작점 대비 변화 보기](SQL/2026-10-15-first-value-baseline.md) |
 | 2026-10-15 | [LAST_VALUE에는 마지막까지의 프레임이 필요하다](SQL/2026-10-15-last-value-full-frame.md) |
 | 2026-10-15 | [최근 세 행의 이동평균과 관측 수](SQL/2026-10-15-moving-average-three-rows.md) |
+| 2026-10-15 | [상세 행을 유지하면서 팀 합계 붙이기](SQL/2026-10-15-partition-total-detail.md) |
