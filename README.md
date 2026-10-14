@@ -138,3 +138,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-15 | [NTILE은 같은 값도 다른 구간에 나눌 수 있다](SQL/2026-10-15-ntile-row-buckets.md) |
 | 2026-10-15 | [CUME_DIST에서 동점까지 포함한 누적 비율](SQL/2026-10-15-cume-dist-ties.md) |
 | 2026-10-15 | [PERCENT_RANK와 누적 비율은 다르다](SQL/2026-10-15-percent-rank-boundary.md) |
+| 2026-10-15 | [순번을 계산한 뒤 바깥 쿼리에서 필터링하기](SQL/2026-10-15-filter-after-window.md) |
