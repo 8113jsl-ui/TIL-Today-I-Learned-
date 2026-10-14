@@ -128,3 +128,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-14 | [RANK에서 공동 순위 다음 번호 확인하기](SQL/2026-10-14-rank-ties-and-gaps.md) |
 | 2026-10-14 | [DENSE_RANK로 점수 구간에 연속 순위 붙이기](SQL/2026-10-14-dense-rank-score-levels.md) |
 | 2026-10-14 | [행 순서와 범위를 지정해 누적합 구하기](SQL/2026-10-14-running-total-explicit-rows.md) |
+| 2026-10-14 | [LAG로 직전 기록과 점수 차이 계산하기](SQL/2026-10-14-lag-previous-record.md) |
