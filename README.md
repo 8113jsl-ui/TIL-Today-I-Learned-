@@ -140,3 +140,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-15 | [PERCENT_RANK와 누적 비율은 다르다](SQL/2026-10-15-percent-rank-boundary.md) |
 | 2026-10-15 | [순번을 계산한 뒤 바깥 쿼리에서 필터링하기](SQL/2026-10-15-filter-after-window.md) |
 | 2026-10-17 | [NOT NULL은 빈 문자열까지 막지 않는다](SQL/2026-10-17-not-null-empty.md) |
+| 2026-10-17 | [UNIQUE와 필수 입력은 다른 조건이다](SQL/2026-10-17-unique-null.md) |
