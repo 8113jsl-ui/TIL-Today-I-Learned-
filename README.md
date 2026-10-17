@@ -149,3 +149,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-17 | [ROLLBACK으로 미확정 변경 되돌리기](SQL/2026-10-17-transaction-rollback.md) |
 | 2026-10-17 | [SAVEPOINT 이후의 변경만 취소하기](SQL/2026-10-17-savepoint-partial-rollback.md) |
 | 2026-10-17 | [CREATE TABLE AS는 제약까지 복사하지 않는다](SQL/2026-10-17-create-table-as-constraints.md) |
+| 2026-10-18 | [WITH로 조회 단계에 이름 붙이기](SQL/2026-10-18-cte-named-stage.md) |
