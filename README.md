@@ -155,3 +155,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-18 | [재귀 CTE로 트리의 깊이 계산하기](SQL/2026-10-18-recursive-tree-depth.md) |
 | 2026-10-18 | [INTERSECT로 두 목록의 공통 값 찾기](SQL/2026-10-18-intersect-membership.md) |
 | 2026-10-18 | [EXCEPT의 왼쪽과 오른쪽 구분하기](SQL/2026-10-18-except-direction.md) |
+| 2026-10-18 | [BETWEEN은 양쪽 경계를 포함한다](SQL/2026-10-18-between-inclusive.md) |
