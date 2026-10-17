@@ -153,3 +153,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-18 | [여러 CTE로 필터와 집계를 분리하기](SQL/2026-10-18-cte-multiple-stages.md) |
 | 2026-10-18 | [재귀 CTE에 시작값과 종료 조건 넣기](SQL/2026-10-18-recursive-sequence.md) |
 | 2026-10-18 | [재귀 CTE로 트리의 깊이 계산하기](SQL/2026-10-18-recursive-tree-depth.md) |
+| 2026-10-18 | [INTERSECT로 두 목록의 공통 값 찾기](SQL/2026-10-18-intersect-membership.md) |
