@@ -142,3 +142,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-17 | [NOT NULL은 빈 문자열까지 막지 않는다](SQL/2026-10-17-not-null-empty.md) |
 | 2026-10-17 | [UNIQUE와 필수 입력은 다른 조건이다](SQL/2026-10-17-unique-null.md) |
 | 2026-10-17 | [CHECK 비교식만으로 NULL을 금지할 수 없다](SQL/2026-10-17-check-null.md) |
+| 2026-10-17 | [DEFAULT는 생략한 값에 적용된다](SQL/2026-10-17-default-explicit-null.md) |
