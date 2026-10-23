@@ -168,3 +168,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | --- | --- |
 | 2026-10-23 | [수업 기록 자동화 설계](docs/til-automation/2026-10-23-design.md) |
 | 2026-10-23 | [수업 기록 자동화 기능 명세](docs/til-automation/2026-10-23-spec.md) |
+| 2026-10-23 | [Gradio 이벤트와 함수 인자 순서](AI/2026-10-23-event-contract.md) |
