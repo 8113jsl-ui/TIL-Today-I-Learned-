@@ -188,3 +188,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-27 | [좌표 검증에서 등호 경계를 확인하기](Projects/M-Pilot/2026-10-27-bbox-boundaries.md) |
 | 2026-10-27 | [LLM 판단과 분리한 업무 규칙](Projects/M-Pilot/2026-10-27-pure-routing-rules.md) |
 | 2026-10-27 | [고객에게 보여 줄 모델을 따로 두기](Projects/M-Pilot/2026-10-27-public-response-model.md) |
+| 2026-10-27 | [대화 저장과 상태 전이를 한 트랜잭션으로 묶기](Projects/M-Pilot/2026-10-27-chat-transaction.md) |
