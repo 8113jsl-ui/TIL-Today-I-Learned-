@@ -192,3 +192,4 @@ Velog에 게시한 글을 주제별로 정리합니다. 각 문서에 원문 링
 | 2026-10-27 | [완료 처리에서 조건부 UPDATE와 행 수 확인](Projects/M-Pilot/2026-10-27-resolution-concurrency.md) |
 | 2026-10-27 | [검색 이력에는 확정된 조치만 넣기](Projects/M-Pilot/2026-10-27-confirmed-history-index.md) |
 | 2026-10-27 | [색인을 지우기 전에 참조를 검증하기](Projects/M-Pilot/2026-10-27-validate-before-rebuild.md) |
+| 2026-10-27 | [CI 설정과 테스트 통과 증거를 구분하기](Projects/M-Pilot/2026-10-27-ci-evidence.md) |
